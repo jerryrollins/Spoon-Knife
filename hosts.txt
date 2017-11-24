@@ -1,0 +1,285 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+	127.0.0.1       localhost
+# Local wireless printer
+192.168.1.78  EPSON1D1AEC
+#	::1             localhost
+172.18.33.207	blueview.kp.org
+172.18.82.90  sites.sp.kp.org
+172.18.82.90  solutions.sp.kp.org
+172.18.82.97  sp-owa.kp.org
+172.18.77.193 myit-reporting.kp.org
+172.18.110.35 ndcl415035.nndc.kp.org
+172.18.82.103 npl.kp.org
+
+# misc hosts
+#
+172.18.110.30 ndcl410030.nndc.kp.org acebo.nndc.kp.org 
+172.18.194.145 cnndcappl059.nndc.kp.org
+172.18.206.38 passwordexpress.kp.org ndcl715038.nndc.kp.org
+172.18.200.167  cnndcpcmp007.nndc.kp.org
+172.18.82.32 ess-sm.kp.org
+172.20.12.39 it.ice.kp.org
+172.17.107.21 ice.moss.kg.org
+172.22.124.151 aims.crdc.kp.org
+172.18.105.73   kpphonebook.kp.org
+10.210.32.171  cscrdpweb001.crdc.kp.org
+172.17.183.117 rfstracker.appl.kp.org
+172.18.108.115 dms.kp.org
+172.18.194.145 ithelp
+172.18.206.38 cnndcappl059
+162.119.192.142
+162.119.192.143
+172.18.109.88
+172.20.239.24
+172.20.239.26
+172.20.231.40
+172.20.231.39
+
+
+# Kaiser
+192.168.1.101 linux-m9gh
+172.18.82.33 remedyprod.crdc.kp.org
+172.21.134.237 crdc-chat.kp.org
+172.18.206.38  ndcl715038.nndc.kp.org
+10.210.12.244 ktazd216.crdc.kp.org
+172.30.32.98 fig2.ssdc.kp.org
+10.210.32.171 cdcweb.crdc.kpscal.org
+172.18.118.52 cnstoradm001.nndc.kp.org
+172.23.149.142 masdcsidw001.ssdc.kp.org
+172.21.144.147 cscrdstgp503.crdc.kp.org
+172.21.144.148 cscrdstgp504.crdc.kp.org
+172.30.83.13 masdcpecc503.ssdc.kp.org
+172.30.83.12 masdcpecc502.ssdc.kp.org
+172.30.83.15 masdcpecc504.ssdc.kp.org
+172.30.200.197 masdcenav001.ssdc.kp.org
+172.30.195.70 masdctanp001.ssdc.kp.org
+10.210.12.59 ussweb.crdc.kp.org
+172.21.168.28 unix.kp.org
+172.21.178.147	unix.kp.org
+172.17.107.21 ice.moss.kp.org
+172.18.109.172 kpnet.kp.org  
+172.17.118.180 ecc.kp.org
+172.20.12.39 it.ice.kp.org
+172.21.248.9 mvsd10b.crdc.kp.org
+172.21.134.238 cscrdpivr003.crdc.kp.org
+172.20.10.48 dashboard.appl.kp.org
+172.17.118.178 cnwdcorad321
+172.17.118.183 icepub.moss.kp.org
+172.18.44.23 cmdb.nndc.kp.org
+172.20.10.53 csidcbiip001.ivdc.kp.org
+172.18.38.39 cnndcpecc510
+216.245.132.232 ideabook.kp.org
+172.18.71.235 spsb.kp.org
+172.17.118.185	aets.appl.kp.org
+172.21.150.70	sis.kp.org
+
+
+
+########################################################### 
+# Start of host entries for Kaiser Permanente... 
+#----------------------------------------------------------
+
+
+10.233.69.230 xmws.kp.org
+##  172.21.128.21 kpnet.kp.org   # wrong IP I guess
+167.210.219.5 snidante1.boulder.ibm.com
+167.210.219.110 snidante1
+167.210.219.111 snidante2
+172.21.151.131 dms.kp.org
+10.233.15.249 token.kp.org
+172.21.128.21 insidekp.kp.org 
+
+172.21.14.4 cscrdpecc501.crdc.kp.org
+172.21.14.5 cscrdpecc502.crdc.kp.org
+172.18.38.27 cnndcpecc501.nndc.kp.org
+10.233.7.224 cnviapecc501.via.ca.kp.org
+172.30.83.11 masdcpecc501.ssdc.kp.org
+172.18.34.42 cnndceccp001.nndc.kp.org
+172.18.34.36 cnndcclun231.nndc.kp.org
+172.18.34.37 cnndcclun232.nndc.kp.org 
+
+# Share Drive
+172.18.118.52 cnstoradm001.nndc.kp.org
+
+10.210.32.171 cdcweb
+10.210.32.171 cdcweb.kp.org
+
+10.210.32.171 cscrdpweb001.crdc.kp.org
+
+# actuate
+172.18.105.59 cnndcremp001.nndc.kp.org
+
+# whiteboard
+10.210.32.171 cdcweb
+10.210.32.171 cdcweb.kp.org
+172.18.105.104 ess-sm.kp.org	
+
+#JLC Only	
+172.21.14.4 cscrdpecc501.crdc.kp.org	
+172.21.14.5 cscrdpecc502.crdc.kp.org	
+172.18.38.27 cnndcpecc501.nndc.kp.org	
+10.233.7.224 cnviapecc501.via.ca.kp.org	
+172.30.83.11 masdcpecc501.ssdc.kp.org	
+172.18.34.42 cnndceccp001.nndc.kp.org	
+172.18.34.36 cnndcclun231.nndc.kp.org	
+172.18.34.37 cnndcclun232.nndc.kp.org 	
+10.209.182.250 csparam1810283.pars.ca.kp.org	
+
+
+#the hub
+#
+
+
+# san management host file
+#
+
+# corona hosts
+#
+172.22.10.21 ktazd2571.crdc.kp.org
+172.22.10.42 ktazd2592.crdc.kp.org
+172.21.20.72 ktazd483.crdc.kp.org
+172.21.14.8 cscrdpecc505.crdc.kp.org
+172.21.14.9 cscrdpecc506.crdc.kp.org
+172.21.14.11 cscrdpecc508.crdc.kp.org
+
+# napa hosts
+#
+172.18.38.60 nzapbs5.nndc.kp.org
+172.18.38.61 nzapbs6.nndc.kp.org
+172.18.38.31 cnndcpcmg501.nndc.kp.org
+172.18.38.45 cnndcpcmg502.nndc.kp.org
+172.18.38.23 cnndcpecc505.nndc.kp.org
+172.18.38.21 cnndcpecc507.nndc.kp.org
+172.18.38.35 cnndcpecc508.nndc.kp.org
+
+# silver springs
+#
+172.30.32.172 nogal.ssdc.kp.org
+172.23.135.29 ktazp8000.ssdc.kp.org
+172.30.200.5 szapbs1.ssdc.kp.org
+172.30.83.14 masdcpecc504.ssdc.kp.org
+172.30.83.15 masdcpecc505.ssdc.kp.org
+
+# walnut creek
+#
+10.233.9.231 cnviaasan001.via.ca.kp.org
+10.233.7.221 cnviapecc503.via.ca.kp.org
+10.233.37.100 cnticsanm001
+
+# irvine
+#
+172.20.20.33 izapbs1.ivdc.kp.org
+172.20.19.60 ivdc_dcx_a.ivdc.kp.org
+172.20.10.64 ivdc_dcx_b.ivdc.kp.org
+
+#----------------------------------------------------------
+172.18.36.62 cnndcbfix006.nndc.kp.org # BigFix server
+172.18.36.63 CNNDCBFIX007.nndc.kp.org #BigFix 007 Server
+10.210.14.90 CSCRDSTGP001.crdc.kp.org # Upgrade of CSCRDDISC001
+10.233.69.230 xmws.kp.org
+172.21.134.235 crdc-chat.kp.org #sametime kaiser
+172.21.134.236 crdc-chat.kp.org #sametime kaiser
+172.21.134.237 crdc-chat.kp.org #sametime kaiser
+172.21.134.235 crdc-chat01.kp.org #sametime kaiser
+172.18.105.103 RemedyProd.crdc.kp.org #remedy
+172.18.105.59 cnndcremp001.nndc.kp.org # remedy pdf print option
+172.22.160.251 cscrdrbau001.crdc.kp.org
+# 172.21.163.115 aims.crdc.kp.org #aims
+10.210.32.171 cdcweb #cdc
+172.17.118.180 ecc.kp.org #cridical alert
+172.21.151.131 dms.kp.org #docushare
+10.210.32.171 cdcweb.crdc.kpscal.org #infosearch
+10.210.32.171 cscrdpweb001.crdc.kp.org #High and Crit page
+10.233.200.245 wdc-apps05.kp.org #inotes
+172.18.105.73 kpphonebook.kp.org #kaiser phone
+172.21.162.130 knowit.crdc.kp.org #knowit
+172.18.105.103 ndcp33.nndc.kp.org
+172.22.160.137 crdzsc01.crdc.kp.org #Jump box
+10.210.14.234 cscrddisc001.crdc.kp.org #Jumpbox
+10.210.14.230 cscrdiefs002.crdc.kp.org
+172.30.65.26 masdcterm080.ssdc.kp.org #Jumpbox
+172.20.6.34 csidcterm080.ivdc.kp.org #Jumpbox
+10.210.6.227 cscrddisc002.crdc.kp.org #EO TSS WIN NOVELL DB
+172.18.105.59 ping crdc-actuate-p1.crdc.kp.org #Remedy Actuate system
+10.208.2.222 eops.kp.org #TSS site DB
+172.18.36.49 cnndcbfix003.nndc.kp.org
+172.18.36.48 cnndcbfix002.nndc.kp.org
+10.210.32.171 cdcweb.kp.org #White Board
+172.30.18.149 tss.kp.org #TSS website
+172.21.29.23 cscrdvvcc211.crdc.kp.org #CDC Virtual Center
+172.17.118.116 cnwdcvccp001.wcdc.kp.org # WDC Virtual Center
+172.18.194.20 cnndcvccp001.nndc.kp.org #NDC Virtual Center
+172.18.194.21 cnndcvccp002.nndc.kp.org #NDC Virtual Center
+10.208.2.222 iss.kp.org #IBM WINTEL IMPL's database.
+172.17.140.28 wdc-chat01.kp.org
+172.18.82.32 ess-sm.kp.org # Remedy - old
+172.18.82.33 remedyprod.crdc.kp.org
+172.18.82.54 myit-itsm.kp.org # Remedy - new
+#   172.22.165.34 sso.kp.org # Single Sign On
+172.20.129.38 sso.kp.org # Single Sign On
+
+# End of host entries for Kaiser Permanente... 
+########################################################### 
+172.18.82.32 ess-sm.kp.org
+172.20.12.39 it.ice.kp.org
+172.17.107.21 ice.moss.kg.org
+172.21.163.115 aims.crdc.kp.org
+162.119.192.142 - 
+162.119.192.143 - kpr.kp.org
+172.18.109.88
+172.20.239.24 - polvdcryp001.lvdc.kp.org
+172.20.239.26 - xlzspwb0011x.lvdc.kp.org
+172.20.231.40 - xlzxpwa2x.lvdc.kp.org
+172.20.231.39 - xlzxpwa1x.lvdc.kp.org
+
+# 172.22.165.34 sso.kp.org
+
+# Single Sign On
+172.20.129.38 sso.kp.org
+
+# Single Sign-On
+172.22.161.168		cscrdwmpc002.crdc.kp.org		cscrdwmpc002
+172.22.161.251		cscrdwmpa001.crdc.kp.org		cscrdwmpa001		
+172.21.158.244		ktazp2626.crdc.kp.org			ktazp2626
+172.21.158.245		ktazp2627.crdc.kp.org			ktazp2627
+162.119.133.110		nzxpwb4.nndc.kp.org			nzxpwb4
+162.119.133.111		nzxpwb5.nndc.kp.org			nzxpwb5
+162.119.234.181		ktazp1902.kp.org			ktazp1902
+162.119.234.182		ktazp1903.kp.org			ktazp1903
+
+# Remedy 7.6 Login Servers
+172.18.82.54		myit-itsm.kp.org			myit-itsm
+
+# Remedy Main Login/Web Access.
+172.18.82.56		ndcl315056.nndc.kp.org			ndcl315056
+172.18.82.54		ndcl315054.nndc.kp.org			ndcl315054
+172.18.82.55		ndcl315055.nndc.kp.org			ndcl315055
+172.18.82.57		ndcl315057.nndc.kp.org			ndcl315057
+172.18.82.73		ndcl315073.nndc.kp.org			ndcl315073
+
+# xMatters
+172.18.82.73		myit-xm.kp.org				myit-xm
+
+# xMatters Main Login/Web Access.
+172.18.195.57		nzxpap81.nndc.kp.org			nzxpap81
+172.22.124.101  	cdcl402101.crdc.kp.org			cdcl402101
+
+127.0.0.1 screenshots.firefox.com
